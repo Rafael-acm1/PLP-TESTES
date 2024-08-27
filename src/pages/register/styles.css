@@ -1,0 +1,20 @@
+.custom-heading {
+    color: white;
+    padding: 200px; 
+    font-size: 3rem;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.register{
+    background-image: url(../../assets/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box {
+    padding: 60px 0;
+}
+
+.logo {
+    padding-top: 60px;
+}
